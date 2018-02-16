@@ -1,3 +1,6 @@
-.header {
-  background-color: #CF4647;
-  height: 400px; }
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%; }
